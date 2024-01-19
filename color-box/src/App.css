@@ -1,0 +1,17 @@
+.App {
+    margin-top: 50px;
+    text-align: center;
+}
+
+
+.display {
+    text-align: center;
+    display: inline-flexbox;
+}
+
+.delete {
+position: relative;
+top: -55px;
+left: -325px;
+
+}
